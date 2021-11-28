@@ -1,4 +1,4 @@
 import datetime as dt
 
 
-print(f'Привет мир!, сегодня {dt.date.today()}')
+print(f'Привет мир!, сегодня {dt.date.today()} и на улице холодно')
