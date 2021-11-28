@@ -2,6 +2,8 @@ import datetime as dt
 
 
 def get_weekend_count():
+    """Counts who knows what
+    """
     today = dt.date.today()
     year = today.year
     month = today.month
