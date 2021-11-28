@@ -1,4 +1,5 @@
-print('Hello world')
 
-print('123')
+import datetime as dt
+
+print(f'Привет мир!, сегодня {dt.date.today()}')
 
